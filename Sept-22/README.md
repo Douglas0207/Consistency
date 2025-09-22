@@ -1,4 +1,4 @@
-## Day 1
+## Day 
 
 - [x]  Python - Module 1 HC
 - [x]  DBMS - revise DCL DML  
