@@ -2,7 +2,7 @@
 import java.util.Arrays; 
   
     
-public class dailychallenge 
+public class dailychallenge  
 {
     public static void main(String[] args)
     {
