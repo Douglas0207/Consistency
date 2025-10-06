@@ -5,7 +5,7 @@ Given an array of integers, return the indices of the two numbers such that they
 
 Arrays – Medium
 Given a sorted array, remove duplicates in-place and return the new length.
-(Memory check: Two pointer technique)
+(Memory check: Two pointer technique) 
 
 Strings – Easy
 Check if a given string is a palindrome (ignore cases and non-alphanumeric characters).
