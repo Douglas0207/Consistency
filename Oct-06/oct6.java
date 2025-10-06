@@ -1,7 +1,7 @@
 /*   
  * Arrays – Easy
 Given an array of integers, return the indices of the two numbers such that they add up to a target.
-(Classic: Two Sum)
+(Classic: Two Sum) 
 
 Arrays – Medium
 Given a sorted array, remove duplicates in-place and return the new length.
