@@ -19,7 +19,7 @@ public class oct14 {
         map.put(n,map.getOrDefault(n, 0)+1);
        }
        int maxFreq=0;
-       int maxEle=-1;
+       int maxEle=-1; 
        for(Map.Entry<Integer,Integer> ent : map.entrySet())
        {
         if(ent.getValue()>maxFreq)
