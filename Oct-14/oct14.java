@@ -20,7 +20,7 @@ public class oct14 {
        }
        int maxFreq=0;
        int maxEle=-1; 
-       for(Map.Entry<Integer,Integer> ent : map.entrySet())
+       for(Map.Entry<Integer,Integer> ent : map.entrySet()) 
        {
         if(ent.getValue()>maxFreq)
         {
