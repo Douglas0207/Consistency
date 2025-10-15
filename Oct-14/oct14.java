@@ -25,7 +25,7 @@ public class oct14 {
         if(ent.getValue()>maxFreq)
         {
             maxFreq = ent.getValue();
-            maxEle = ent.getKey();
+            maxEle = ent.getKey(); 
         }
        }
        System.out.println("The Most Frequent Element is: "+maxEle+". It appears "+maxFreq+" times");
