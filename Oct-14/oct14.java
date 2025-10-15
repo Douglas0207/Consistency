@@ -1,6 +1,6 @@
 import java.util.*;
 public class oct14 {
-    public static void main(String args[])
+    public static void main(String args[]) 
     {
         int arr [] = {0,0,1,1,1,2,3,4,5,5,5,5,5,1};
         findMostFreqElement(arr);
