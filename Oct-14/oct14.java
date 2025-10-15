@@ -12,7 +12,7 @@ public class oct14 {
         quickSort(sortArr); 
     } 
     public static void findMostFreqElement(int arr[]) 
-    {
+    { 
        HashMap<Integer,Integer> map = new HashMap<>();
        for(int n:arr)
        {
