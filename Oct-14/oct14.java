@@ -10,7 +10,7 @@ public class oct14 {
         insertionSort(sortArr); 
         mergeSort(sortArr);
         quickSort(sortArr);
-    }
+    } 
     public static void findMostFreqElement(int arr[])
     {
        HashMap<Integer,Integer> map = new HashMap<>();
