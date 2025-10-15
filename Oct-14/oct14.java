@@ -7,7 +7,7 @@ public class oct14 {
         int sortArr [] = {9,5,1,0,2,3,8,7,4,6};
         selectionSort(sortArr);
         bubbleSort(sortArr);
-        insertionSort(sortArr);
+        insertionSort(sortArr); 
         mergeSort(sortArr);
         quickSort(sortArr);
     }
