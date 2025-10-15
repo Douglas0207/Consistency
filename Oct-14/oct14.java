@@ -5,7 +5,7 @@ public class oct14 {
         int arr [] = {0,0,1,1,1,2,3,4,5,5,5,5,5,1};
         findMostFreqElement(arr);
         int sortArr [] = {9,5,1,0,2,3,8,7,4,6};
-        selectionSort(sortArr);
+        selectionSort(sortArr); 
         bubbleSort(sortArr);
         insertionSort(sortArr); 
         mergeSort(sortArr);
