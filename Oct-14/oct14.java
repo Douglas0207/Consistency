@@ -11,7 +11,7 @@ public class oct14 {
         mergeSort(sortArr); 
         quickSort(sortArr); 
     } 
-    public static void findMostFreqElement(int arr[])
+    public static void findMostFreqElement(int arr[]) 
     {
        HashMap<Integer,Integer> map = new HashMap<>();
        for(int n:arr)
