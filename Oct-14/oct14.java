@@ -8,7 +8,7 @@ public class oct14 {
         selectionSort(sortArr); 
         bubbleSort(sortArr);
         insertionSort(sortArr); 
-        mergeSort(sortArr);
+        mergeSort(sortArr); 
         quickSort(sortArr);
     } 
     public static void findMostFreqElement(int arr[])
